@@ -36,7 +36,7 @@
 
 ⌛️・Latest open source project: Soon
 
-📩・Any question? Add [**Socket#1010**](https://discord.com/users/1070357267133763594) on [**Discord**](https://discord.com)</a>
+📩・Any question? Add [**Xyz.ssh#3386**](https://discord.com/users/1070357267133763594) on [**Discord**](https://discord.com)</a>
 <a href="https://discord.com/users/1070357267133763594" target="_blank"></a></p>
 
 🛠・**Backend**:
