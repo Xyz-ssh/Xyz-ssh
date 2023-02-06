@@ -28,16 +28,16 @@
 })()
 ```
 <p href="https://discord.gg/chine" align="center">
-    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/1030581312144285796/>
+    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/1070357267133763594/>
 </p>
 
 # About Me:
 💸 - Cheap **$1.25** Nitro: [**NSFW**](https://discord.gg/chine)
 
-⌛️・Latest open source project [**Snapchat-Username-Checker**](https://github.com/Xyz-ssh/Snapchat-Username-Checker) **-** [**Discord-Scraped-Data**](https://github.com/Xyz-ssh/Discord-Scraped-Data)
+⌛️・Latest open source project: Soon
 
-📩・Any question? Add [**Socket#1010**](https://discord.com/users/1030581312144285796) on [**Discord**](https://discord.com)</a>
-<a href="https://discord.com/users/1030581312144285796" target="_blank"></a></p>
+📩・Any question? Add [**Socket#1010**](https://discord.com/users/1070357267133763594) on [**Discord**](https://discord.com)</a>
+<a href="https://discord.com/users/1070357267133763594" target="_blank"></a></p>
 
 🛠・**Backend**:
   - Python
